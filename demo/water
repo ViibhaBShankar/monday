@@ -22,3 +22,43 @@ jobs:
       - name: Build using Maven
         run: mvn clean install
         working-directory: demo
+
+
+your repo
+add jenkin file add content
+slack login 
+name for workspace
+git to jenkins manage jenkins
+tools
+add maven Maven3 then uncheck install auto..
+save
+next system
+drop downalli select slack
+give work space name as you given before
+credential global add secrete text
+https://my.slack.com/service/new/jenkins-ci
+chose channel
+something related to your  workspace barutte
+add jenkins integrations
+kelage you will have token copy it
+go for jenkins and the paste it
+give the default name
+save
+
+then jenkins
+new item
+fc2
+free style
+buildstep
+execute window batch
+echo jenkins
+add post action all check all
+scorce code manage alli give repo url
+github hook trigger na check maadu
+then save
+build now
+
+go for slack
+activity sucess
+thats all good job
+
